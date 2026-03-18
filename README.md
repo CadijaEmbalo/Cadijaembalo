@@ -1,13 +1,11 @@
 # Hi there 👋I’m Cadija
-I’m a Liverpool‑based aspiring Data Analyst with a strong interest in data cleaning, reporting, and digital problem‑solving. 
+Aspiring Data Analyst with a strong interest in data cleaning, reporting, and digital problem‑solving. 
 
-I hold a degree in Social Work and I’m currently completing a Level 3 Data Technician Bootcamp with LeepGroup, where I’m developing practical skills in Power BI, SQL, Excel, and data handling.
+---
 
+# Welcome to my GitHub profile! 
 
-
-### 📊 Aspiring Data Analyst | Turning Raw Data Into Insights
-
-Welcome to my GitHub profile! I turn data into meaningful insights using Excel, Power BI, Tableau, MySQL, Python, and Azure.
+I turn data into meaningful insights using Excel, Power BI, Tableau, MySQL, Python, and Azure.
 
 Below is my tech stack with **working icons** 👇
 
